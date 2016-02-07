@@ -5,12 +5,12 @@ The styles can be different in each page, so, i recommend you take a look on it.
 
 The script only works when the users are logued in, it looks like this:
 
-[![box](http://forobeta.com/attachments/tutoriales/56777d1437962121-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-44-53.png)](http://forobeta.com/attachments/tutoriales/56777d1437962121-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-44-53.png)
+[![box](https://k60.kn3.net/4/4/4/E/9/1/687.png)](https://k60.kn3.net/4/4/4/E/9/1/687.png)
 
 
 If not:
 
-[![box](http://forobeta.com/attachments/tutoriales/56776d1437962098-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-54-43.png)](http://forobeta.com/attachments/tutoriales/56776d1437962098-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-54-43.png)
+[![box2](https://k60.kn3.net/E/9/9/B/6/1/18A.png)](https://k60.kn3.net/E/9/9/B/6/1/18A.png)
 
 
 
