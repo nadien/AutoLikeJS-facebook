@@ -5,11 +5,13 @@ The styles can be different in each page, so, i recommend you take a look on it.
 
 The script only works when the users are logued in, it looks like this:
 
-![alt tag](http://forobeta.com/attachments/tutoriales/56777d1437962121-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-44-53.png)
+[![box](http://forobeta.com/attachments/tutoriales/56777d1437962121-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-44-53.png)](http://forobeta.com/attachments/tutoriales/56777d1437962121-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-44-53.png)
+
 
 If not:
 
-![alt tag](http://forobeta.com/attachments/tutoriales/56776d1437962098-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-54-43.png)
+[![box](http://forobeta.com/attachments/tutoriales/56776d1437962098-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-54-43.png)](http://forobeta.com/attachments/tutoriales/56776d1437962098-script-autolike-propio-version-beta-captura-de-pantalla_2015-07-26_20-54-43.png)
+
 
 
 You only have to put the tags in your global index header:
