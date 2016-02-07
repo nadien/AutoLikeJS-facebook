@@ -1,0 +1,11 @@
+#capaclick {background: rgba(0, 100, 0, 0.6); position: fixed; top: 0; left: 0; width: 100%; height: 100%; }
+
+#contenedor {background: #f1f1f1;border-radius:5px;box-shadow: 0 0 5px 0px inset; width: 300px; height: 200px; position: fixed; left: 0; top: 0; bottom: 0; right: 0; margin: auto;}
+
+#x0_002 {background: url(http://www.fordesigner.com/imguploads/Image/cjbc/zcool/png20080526/1211755976.png); width: 30px; height: 30px; overflow: hidden; background-size: 100%; position: fixed; left: 0; top: 0; bottom: 160px; right: -260px; margin: auto;hidden  z-index: 9990; }
+
+#opaco {overflow: hidden; width: 30px; height:30px; position: fixed; left: 12; top: 0; bottom: 160px; right: 523px; margin: auto;  z-index: 9999; -moz-opacity: 0.0; -khtml-opacity: 0.0; opacity: 0.0; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=0); filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0); filter:alpha(opacity=0);}
+
+#barrita {background-color: rgb(0, 130 , 255); width: 300px; height:40px; position: fixed; left: 0; top: 0; bottom: 158px; right: 0; margin: auto; overflow:hidden;}
+
+.blanco { margin-left: 18%; margin-top: 40px;}
